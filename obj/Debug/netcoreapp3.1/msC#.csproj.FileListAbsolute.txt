@@ -1,0 +1,12 @@
+/Users/harshajavle/msC#/bin/Debug/netcoreapp3.1/msC#.deps.json
+/Users/harshajavle/msC#/bin/Debug/netcoreapp3.1/msC#.runtimeconfig.json
+/Users/harshajavle/msC#/bin/Debug/netcoreapp3.1/msC#.runtimeconfig.dev.json
+/Users/harshajavle/msC#/bin/Debug/netcoreapp3.1/msC#.dll
+/Users/harshajavle/msC#/bin/Debug/netcoreapp3.1/msC#.pdb
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.csprojAssemblyReference.cache
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.AssemblyInfoInputs.cache
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.AssemblyInfo.cs
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.csproj.CoreCompileInputs.cache
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.dll
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.pdb
+/Users/harshajavle/msC#/obj/Debug/netcoreapp3.1/msC#.genruntimeconfig.cache
